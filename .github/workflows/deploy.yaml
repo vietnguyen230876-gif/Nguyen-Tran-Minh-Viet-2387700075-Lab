@@ -5,6 +5,10 @@ on:
     branches:
       - main
 
+# Bổ sung quyền ghi vào đây để tránh lỗi 403
+permissions:
+  contents: write
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
