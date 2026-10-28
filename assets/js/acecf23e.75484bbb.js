@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkminhviet_lab=self.webpackChunkminhviet_lab||[]).push([["3220"],{1912(e){e.exports=JSON.parse('{"blogBasePath":"/minhviet-2387700075/blog","blogTitle":"Blog","authorsListPath":"/minhviet-2387700075/blog/authors"}')}}]);

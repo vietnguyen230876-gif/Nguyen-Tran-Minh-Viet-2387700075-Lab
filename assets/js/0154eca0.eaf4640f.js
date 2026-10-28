@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkminhviet_lab=self.webpackChunkminhviet_lab||[]).push([["1651"],{6844(e){e.exports=JSON.parse('{"metadata":{"permalink":"/minhviet-2387700075/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
